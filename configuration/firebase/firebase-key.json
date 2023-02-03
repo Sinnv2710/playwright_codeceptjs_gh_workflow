@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "noah-staging",
+  "private_key_id": "350067fd356402aaede8370cde263fd95c5c66ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPOGIKZ2tNPY4N\n+4OftEiu+ARnhS0PCqmyUpkLHHnEURtXzQvSWmrQaL9T8+Tf6o4S9Um6VhDC4hMQ\nzahySCQCcEpAq0JGYicKxtVHU0rxM8VTR0mtk+fSmiAQkL6+KtiTeakw0HpSmYbF\nU/9dIASFGu98xtFeTUMLnW/n/o2pj+LaR4kfkbzxzuDG9/CQd5xOx9f1uPX786hc\n9jJ2OkryVz3S/Zrfrn6xNSkrn2fIsPMPLQY4kzTM99hC4cwXoiObBeeTdmwthtnc\nTb2nCMvIZaBsGEycERs0E8+y0/Z9R3Lok+/ixoWZ0nJKZpsF36mypLIe8YZMBpf0\nCgJYBHHtAgMBAAECggEADk3qFqXE9nQFVlnCYEflrI5aX3sF/T/TLwgcoHO6xB6F\nMK5q3n53WSOh8X2okvxyCkT8bex7A7jvb/2CX0Ezmyd9OLGZxZoI7+mB14acacIV\nIQaOw3iuTA9vnzUetanngWaok0IQ75rBfuWpfxgyt62AUrC2yzeyJR8dFnqv9MBm\nLP7xlHRXz2aKdB2H6zMD9ZvjeRDZPpGpC95Cvv+mFihnzm9rCF8maItHTH/w1WyM\nR7r+WcIx3IAgtgBVkPdEhw6Vc658aRzMHeaAx1YZfzyZVJbfaimlHdTVeyUeIWF5\nhYHZCZJUSPfuzMM1qf0t9AZwk9JDmF/3MheS4Hh7gQKBgQDsueRvfOH+4Nirqqww\n03CElo2khMCqmQ7k0cdD1n8cibzR+8j42eXzcebj73J/nNYAKWmga4z8NYfdT6md\nyTvmDDFcO/LYM+TJQc+FbJWF8oMKBLit3O+4vqCyvya3QyfBn6RyNjDtAoF73j66\n1cNaum2Cqu8ZWjp9dxylgqm6aQKBgQDgF38Fhki9LOVaTsW/snMbwjH9viLxjxfw\nuhOfVKyiMl1sIfHG7eSuH0uQKz4IsDDdYPAYzMRgDMy27NKTLx25dx0sX6qBNf/u\nC77NvZHIXOV/ebI8rd4zLn4ER/UnUa+2UnpTJ00PPMO7/DnYpo5kLZyOKkkUSwDd\n78FlbqDi5QKBgBd21Y23cy8wWkmpwSeVzbFWuvNztSUzxqYnpPi0aiUKAg1OR71i\n28gloh01vsOnaA7cC/w6rN7S74SgQM/DAozq6Hmb95Y2jpbkTw2KlceRIiv8C9Iv\n9BL70jHlgJDptycaC9LGTFMxzGPaw50BUzvK/s/U4Z5Bs0p8Y/qD2Q8BAoGBANwW\nd4yHfH0/0OpHH3TM4LzMl6isy0kPzuWA+7CqyvpqGNMQ65MDJmvVFLO9pKmH0hY7\nFNRmmB/1skGeipo/1iPHVwGz25QX4wp6wqTyoHF2u3fdoC50XR1LdjziJ2a8laSt\nkLKGkOp8NYk1ieK8gnDlUzNVWHzzxSA0T289ngn5AoGACuq0NahtxM+FoLQZXU7Y\n32Jt8nLz4vK2jv1p8qMsq7ODdA/L+B0HFUis9uJd+Pd3gHos8yKvwgGh22FgkUX8\n74FlcIwi+/ztWds0KBpKq2ALhQ5lK9sJQvdyn3IJv8Wg7GpJAG5lT4pqIYvJOhRa\nIzlaQsoS/uXshGiBBGPAjPY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-g0r4l@noah-staging.iam.gserviceaccount.com",
+  "client_id": "113724669504460406608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g0r4l%40noah-staging.iam.gserviceaccount.com"
+}

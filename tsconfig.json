@@ -1,0 +1,34 @@
+{
+    "ts-node": {
+        "files": true
+    },
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2017",
+        "lib": [
+            "ES2017",
+            "DOM"
+        ],
+        "declaration": true,
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true,
+        "esModuleInterop": true,
+        // "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "inlineSourceMap": true,
+        "moduleResolution": "node",
+        "types": [
+            "*",
+        ],
+        "plugins": [
+            {
+                "name": "typescript-tslint-plugin"
+            }
+        ]
+    },
+}
