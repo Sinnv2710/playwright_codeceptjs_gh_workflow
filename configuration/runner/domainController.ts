@@ -6,10 +6,6 @@ let accounts = new DataTable(['domainUrl'])
  * Make dataTable to run
  * dataTable
  *          |domainUrl|
- *          |NOAH_SG_EN|
- *          |ZOEY_SG_EN|
- *          |NOAH_HK_EN|
- *          |NOAH_HK_ZH|
  */
 new Controller('domainUrl').pushObjectToDatabase(domainUrl, accounts)
 
